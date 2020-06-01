@@ -20,8 +20,7 @@ def bonus
    }
   }
 
-	.	hash = {first: "first value!", second: "second value!"}
-	.	hash[:third] = "third value!"
+epic_tragedy
 
   
 
