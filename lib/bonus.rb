@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-epic_tragedy{:Montague}
+epic_tragedy{:Montague}{:hero}{:status} = "dead"
 
   
 
