@@ -20,7 +20,8 @@ def bonus
    }
   }
 
-  #code your solution here:
+	.	hash = {first: "first value!", second: "second value!"}
+	.	hash[:third] = "third value!"
 
   
 
